@@ -1,4 +1,7 @@
 
 # testGit
 learning git from vs
-trying git amend 
+trying git amend
+try again commit 
+try again commit amend
+
